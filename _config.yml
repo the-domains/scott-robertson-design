@@ -1,0 +1,28 @@
+name: scott robertson design
+favicon: null
+layout_spectrum: 0.20023491908796132
+typography_spectrum: 0.8962462632916868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.053622401086613536
+  lightness: 0.03691355185583234
+  saturation: 0.48986393166705966
+  rhythmicContrast: 0.09243537345901132
+purpose: []
